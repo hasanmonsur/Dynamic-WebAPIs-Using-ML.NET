@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNetWebApp", "MLNetWebApp.csproj", "{322F572E-99C7-49ED-B05D-1E6E8D64AF09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLNetModelGen", "..\MLNetModelGen\MLNetModelGen\MLNetModelGen.csproj", "{792FB26C-542D-4C0B-AEEF-A3B2F3618D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322F572E-99C7-49ED-B05D-1E6E8D64AF09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322F572E-99C7-49ED-B05D-1E6E8D64AF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322F572E-99C7-49ED-B05D-1E6E8D64AF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322F572E-99C7-49ED-B05D-1E6E8D64AF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792FB26C-542D-4C0B-AEEF-A3B2F3618D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792FB26C-542D-4C0B-AEEF-A3B2F3618D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792FB26C-542D-4C0B-AEEF-A3B2F3618D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792FB26C-542D-4C0B-AEEF-A3B2F3618D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
